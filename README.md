@@ -1,5 +1,5 @@
 # Morse Code Translator
-This MATLAB program translates the input text and displays the output in Morse code symbols, and vise-versa <br>
+This MATLAB program translates the input text and displays the output in Morse code symbols, and vise-versa.<br><br>
 Features: 
 1. Can read and translate input to Morse code (vise-versa)
 2. Show word count
